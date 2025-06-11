@@ -36,8 +36,6 @@ Analyze sales performance across regions, products, and years to derive actionab
 ## 📁 Files
 
 - `Sales Data Analysis PPT.pptx` – Final presentation deck  
-- `/visuals` – (optional) Add screenshots of charts/graphs  
-- `/data` – (optional) Upload Excel or CSV if available
 
 ---
 
